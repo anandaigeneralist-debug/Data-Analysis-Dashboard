@@ -7,17 +7,23 @@ To analyze Blinkit grocery sales data and evaluate performance across products, 
 ## KPI-Based Questions
 🔹 Sales Performance
 •	What is the total sales revenue, and how does it vary across different outlet types? 
+
 •	Which item categories contribute the most to total sales? 
+
 •	What is the average sales per item, and what does it indicate about pricing strategy? 
 ________________________________________
 🔹 Product Insights
-•	Which item type has the highest sales volume and revenue? 
+•	Which item type has the highest sales volume and revenue?
+
 •	How does fat content (Low Fat vs Regular) impact sales performance? 
+
 •	Are there products with high visibility but low sales (inefficiency indicator)? 
 ________________________________________
 🔹 Outlet Performance
 •	Which outlet size (Small/Medium/High) generates the highest revenue? 
+
 •	How do Tier 1, Tier 2, and Tier 3 locations compare in terms of sales? 
+
 •	Which outlet type (Supermarket Type1/2/3) performs best? 
 ________________________________________
 
