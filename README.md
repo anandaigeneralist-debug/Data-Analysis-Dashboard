@@ -5,37 +5,15 @@ To analyze Blinkit grocery sales data and evaluate performance across products, 
 - <a href="https://github.com/anandaigeneralist-debug/Data-Analysis-Dashboard/blob/main/Blinkit%20Dashboard%20Analysis.xlsx">Dataset</a>
 
 ## KPI-Based Questions
-🔹 Sales Performance
-
-•	What is the total sales revenue, and how does it vary across different outlet types? 
-
-•	Which item categories contribute the most to total sales? 
-
-•	What is the average sales per item, and what does it indicate about pricing strategy? 
-________________________________________
-🔹 Product Insights
-
-•	Which item type has the highest sales volume and revenue?
-
-•	How does fat content (Low Fat vs Regular) impact sales performance? 
-
-•	Are there products with high visibility but low sales (inefficiency indicator)? 
-________________________________________
-🔹 Outlet Performance
-
-•	Which outlet size (Small/Medium/High) generates the highest revenue? 
-
-•	How do Tier 1, Tier 2, and Tier 3 locations compare in terms of sales? 
-
-•	Which outlet type (Supermarket Type1/2/3) performs best? 
-________________________________________
-🔹 Customer Satisfaction
-
-•	What is the average rating, and how does it vary by item type or outlet? 
-
-•	Are there high-selling products with low ratings (quality concern)? 
-
-•	Which outlets consistently receive better customer ratings? 
+Project Questions
+- What are the total and average sales, and how are they distributed across outlets?
+- Which product categories contribute the most to revenue?
+- How do outlet size, type, and location (Tier 1/2/3) impact sales performance?
+- What is the relationship between item visibility and sales?
+- How do customer ratings vary across products and outlets?
+- Are there high-selling but low-rated products that need improvement?
+- Which outlets or products are underperforming despite availability?
+- What factors drive higher sales and customer satisfaction?
 
 
 - Dashboard Interaction <a href="https://github.com/anandaigeneralist-debug/Data-Analysis-Dashboard/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png">View Dashboard</a>
