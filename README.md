@@ -21,10 +21,14 @@ Project Questions
 <img width="1170" height="765" alt="Blinkit Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/beeef0b3-1064-4950-8601-785f91b489fb" />
 
 ## Compressed Project Insights
-•	High-volume sales (~1.2M) with low average per item → price-sensitive market 
+•	High-volume sales (~1.2M) with low average per item → price-sensitive market
+
 •	Top categories + low-fat products drive most revenue 
+
 •	Medium/large outlets & Tier 3 cities perform best 
+
 •	Avg rating ~3.97 → moderate satisfaction, improvement needed 
+
 •	High visibility ≠ high sales → optimization opportunity 
 
 ## Conclusion
