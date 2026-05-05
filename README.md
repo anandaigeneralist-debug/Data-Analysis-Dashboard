@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-A data analytics project on Blinkit grocery sales using Excel/BI tools. It explores item-level performance, outlet segmentation, and customer ratings to generate actionable insights. Includes KPI tracking, data modeling, and interactive dashboard design for business decision-making.
+# Blinkit-Sales-Analytics-Dashboard (interactive Dashboard Creation using MS Excel)
+## Project Objective
+To analyze Blinkit grocery sales data and evaluate performance across products, outlets, and customer ratings, in order to identify key trends, measure business KPIs, and generate actionable insights for improving sales, operational efficiency, and customer satisfaction.
